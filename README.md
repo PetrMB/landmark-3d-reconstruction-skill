@@ -2,8 +2,13 @@
 
 Sdílený postup pro AI asistenty při tvorbě a postupném zpřesňování 3D modelů skutečných staveb podle fotografií, map, plánů a výškopisných dat. Vychází z práce na zámku Benátky nad Jizerou, ale hodí se také pro kostely, věže, radnice a další landmarky.
 
-![Fotografie zámku Benátky nad Jizerou](images/benatky-fotografie.jpg)
-*Zámek Benátky nad Jizerou. Foto MartinVeselka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); původní snímek bez úprav. Slouží jako příklad podkladu, nikoli jako přímá reference k níže uvedeným schodům.*
+## Ukázka výsledku
+
+| Barevný 3D model | Podoba modelu připravená pro 3D tisk |
+| --- | --- |
+| ![Barevný digitální model zámku](images/benatky-model-v012.png) | ![Digitální náhled tiskového modelu](images/benatky-tiskovy-model-v012.png) |
+
+Oba obrázky jsou rendery verze v012, nikoli fotografie fyzického výtisku. Barevný model používá na fasádě upravenou [fotografii Martina Veselky](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Tiskový model má samostatnou geometrii upravenou pro tisk. [Původ a licence obrázků](images/README.md).
 
 ## Co skill dělá
 
