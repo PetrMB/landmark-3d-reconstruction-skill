@@ -1,0 +1,4 @@
+# Původ obrazů
+
+- `benatky-fotografie.jpg`: MartinVeselka, [Benátky nad Jizerou - Nové Benátky - zámek (1)](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Kopie původního snímku bez úprav. Originál a licenční metadata ověřeny na Wikimedia Commons. Fotografie ukazuje zámek obecně a není předlohou pro zobrazenou revizi schodiště.
+- `schody-v007.png`, `schody-v010.png`: rendery digitálních modelů z projektu Petra Honegera, před a po revizi. Uvolněny pro tento repozitář pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); uveď Petr Honeger a odkaz na tento repozitář. Nejde o fotografie skutečné stavby.
