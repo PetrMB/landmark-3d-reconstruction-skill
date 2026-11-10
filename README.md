@@ -4,11 +4,11 @@ Sdílený postup pro AI asistenty při tvorbě a postupném zpřesňování 3D m
 
 ## Ukázka výsledku
 
-| Barevný 3D model | Podoba modelu připravená pro 3D tisk |
+| Barevný 3D model | Skutečný 3D výtisk |
 | --- | --- |
-| ![Barevný digitální model zámku](images/benatky-model-v012.png) | ![Digitální náhled tiskového modelu](images/benatky-tiskovy-model-v012.png) |
+| ![Barevný digitální model zámku](images/benatky-model-v012.png) | ![Fotografie skutečného výtisku zámku](images/benatky-fyzicky-vytisk.png) |
 
-Oba obrázky jsou rendery verze v012, nikoli fotografie fyzického výtisku. Barevný model používá na fasádě upravenou [fotografii Martina Veselky](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Tiskový model má samostatnou geometrii upravenou pro tisk. [Původ a licence obrázků](images/README.md).
+Vlevo je render digitálního modelu v012; vpravo fotografie fyzického výtisku dodaná Petrem Honegerem. Přesná verze a měřítko výtisku nejsou na základě fotografie ověřeny. Barevný model používá na fasádě upravenou [fotografii Martina Veselky](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). K dispozici je také [digitální náhled tiskové verze v012](images/benatky-tiskovy-model-v012.png). [Původ a licence obrázků](images/README.md).
 
 ## Co skill dělá
 

@@ -5,3 +5,5 @@
 
 - `benatky-model-v012.png`: digitální render barevného modelu Petra Honegera. Fasáda obsahuje upravenou projekci fotografie MartinVeselka, [zdroj na Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ben%C3%A1tky_nad_Jizerou_-_Nov%C3%A9_Ben%C3%A1tky_-_z%C3%A1mek_(1).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Úprava: výřez fotografie a perspektivní UV projekce na model; render je sdílen pod CC BY-SA 4.0.
 - `benatky-tiskovy-model-v012.png`: render digitálního modelu Petra Honegera připraveného pro 3D tisk; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Není fotografií fyzického výtisku.
+
+- `benatky-fyzicky-vytisk.png`: fotografie fyzického výtisku dodaná Petrem Honegerem pro zveřejnění v tomto repozitáři; přesná verze a měřítko nejsou potvrzeny. Další práva k fotografii nejsou určena.
